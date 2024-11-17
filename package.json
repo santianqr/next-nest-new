@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "next-nest-new",
   "private": true,
   "scripts": {
     "build": "turbo build",
